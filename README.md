@@ -14,14 +14,14 @@
 - **Berkely CS188 과제 기반으로, PACMAN으로 인공지능 알고리즘 구현**
 - **언어 : Python3**
     
-    ### search
-    
-    - **다양한 탐색 알고리즘으로 SingleAgent 미로 탐색 구현**
-    - **알고리즘 :**
-        - **DFS**
-        - **BFS**
-        - **UniformCostSearch**
-        - A* Search - Heuristic
+### search
+
+- **다양한 탐색 알고리즘으로 SingleAgent 미로 탐색 구현**
+- **알고리즘 :**
+    - **DFS**
+    - **BFS**
+    - **UniformCostSearch**
+    - A* Search - Heuristic
 
 ### multiAgent
 
