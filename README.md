@@ -1,4 +1,4 @@
-# cs188
+# COSE361_AI
 ## COSE361 Artifical-Intelligence
 
 ---
