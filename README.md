@@ -21,7 +21,7 @@
         - **DFS**
         - **BFS**
         - **UniformCostSearch**
-        - **A* Search - Heuristic**
+        - A* Search - Heuristic
 
 ### multiAgent
 
